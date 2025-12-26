@@ -111,10 +111,10 @@ WIP
 ## Discussion
 
 [Join our Discord]
-(https://discord.gg/rNQ2AH3vaW)
+https://discord.gg/rNQ2AH3vaW
 <br>
 [Telegram Group]
-(https://t.me/twoyi)
+https://t.me/twoyi
 
 ## Contact Me
 
