@@ -6,7 +6,7 @@
         We are gathering developers to translate documentation and improve compatibility.
     </p>
     <p>
-        <a href="https://discord.gg/MNMGHZbdDj">
+        <a href="https://discord.gg/rNQ2AH3vaW">
             <img src="https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord" alt="Join Discord">
         </a>
     </p>
@@ -110,11 +110,9 @@ WIP
 
 ## Discussion
 
-[Join our Discord]
-https://discord.gg/rNQ2AH3vaW
+[Join our Discord](https://discord.gg/rNQ2AH3vaW)
 <br>
-[Telegram Group]
-https://t.me/twoyi
+[Telegram Group (Archived)](https://t.me/twoyi)
 
 ## Contact Me
 
