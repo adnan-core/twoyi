@@ -114,6 +114,4 @@ WIP
 <br>
 [Telegram Group (Archived)](https://t.me/twoyi)
 
-## Contact Me
 
-adnan25807344@gmail.com
