@@ -1,5 +1,15 @@
 <div align="center">
-    <p><b>Due to the complexity of the project and lack of any revenue, the project has been discontinued.</b></p>
+    <h3><b>⚠️ Community Revival Project ⚠️</b></h3>
+    <p>
+        <b>This is a community-maintained fork.</b><br>
+        The original project was discontinued, but we are working to keep Twoyi alive!<br>
+        We are gathering developers to translate documentation and improve compatibility.
+    </p>
+    <p>
+        <a href="https://discord.gg/MNMGHZbdDj">
+            <img src="https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord" alt="Join Discord">
+        </a>
+    </p>
 </div>
 
 <div align="center">
@@ -100,8 +110,12 @@ WIP
 
 ## Discussion
 
-[Telegram Group](https://t.me/twoyi)
+[Join our Discord]
+(https://discord.gg/rNQ2AH3vaW)
+<br>
+[Telegram Group]
+(https://t.me/twoyi)
 
 ## Contact Me
 
-twsxtd@gmail.com
+adnan25807344@gmail.com
